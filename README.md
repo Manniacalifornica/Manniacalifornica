@@ -6,7 +6,7 @@
 - 😄 Pronouns: ... he/him
 - ⚡ Fun fact: ...
 - I would like to eventually be able to contribute to projects like Debian, Arch, Linux, Grub, maybe mint, KDE
-- Some of my favorite programs are bash, btop, rsync, ssh, exiftool, ventoy, gparted, uxplay, brightnessctl
+- Some of my favorite programs are bash, btop, rsync, ssh, nano, exiftool, ventoy, gparted, uxplay, brightnessctl
 
 <!---
 Manniacalifornica/Manniacalifornica is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
